@@ -22,6 +22,14 @@
                 "telefono":"9961006745",
                 "categoria":"trabajo", 
                 "fecha": "18/03/2020", 
-                "hora": "06:15"}
+                "hora": "06:15"},
+
+                {"id": 10, 
+                    "nombre":"Melany", 
+                    "apellido":"Carranza", 
+                    "telefono":"9961078653",
+                    "categoria":"compras", 
+                    "fecha": "15/08/2022", 
+                    "hora": "05:35"}
     ]
 }
